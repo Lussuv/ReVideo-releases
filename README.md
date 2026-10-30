@@ -30,4 +30,4 @@ Gibt es eine neue Version, zeigt die App das an. Die neue Datei installierst du 
 | `←` / `→` | 5 Sekunden zurück / vor |
 | `,` / `.` | Ein Bild zurück / vor |
 | `Entf` | Video löschen (Papierkorb) |
-| `F11` | Vollbild |
+| `F11` | Vollbild |q
